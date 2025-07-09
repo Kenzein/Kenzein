@@ -5,7 +5,6 @@
 <!--
 **Kenzein/Kenzein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
 <!-- ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql&perline=3)](https://skillicons.dev)
 
@@ -37,9 +36,6 @@
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Kenzein&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=Kenzein&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -52,11 +48,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kenzein/Kenzein/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kenzein/Kenzein/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-###
-
-<img src="https://raw.githubusercontent.com/Kenzein/Kenzein/output/snake.svg" alt="Snake animation" />
 
 ###
